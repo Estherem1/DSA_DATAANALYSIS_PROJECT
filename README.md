@@ -2,6 +2,20 @@
 
 ## PROJECT TITLE 1: Amazon Product Analytics with Excel
 ---
+[Project Overview](#project-overview)
+
+[DATA SOURCES](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+---
 ### Project Overview: 
 This project is a comprehensive Amazon Product Analytics Dashboard built in Microsoft Excel, designed to transform raw e-commerce data into actionable insights. Using a dataset of 1,465 Amazon products—including categories, prices, discounts, ratings, and reviews—we developed a dynamic dashboard that helps users uncover trends in pricing, customer engagement, and product performance.
 ---
@@ -27,3 +41,5 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 - How are products distributed across price ranges and rating levels?
 - How many products have fewer than 1,000 reviews?
 ---
+### Data Analysis
+This is where we include some basics lines of code or queries or even some of the DAX expressions used during your analysis
