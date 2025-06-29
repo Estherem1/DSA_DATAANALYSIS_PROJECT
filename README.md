@@ -85,3 +85,24 @@ This is where we include some basics lines of code or queries or even some of th
 
 8. High Discounts Often Correlate with Lower Ratings
    Some highly discounted products had average or below-average ratings, possibly due to quality concerns or clearance strategies
+   
+   ---
+   ### Recommendations
+1. Promote High-Rated, Low-Visibility Products
+   Several products have excellent ratings but very few reviews. These are opportunities for targeted marketing or bundling to increase visibility and sales.
+
+2. Boost Review Engagement for Mid-Rated Products
+   Products rated around 3.0–3.5 may benefit from post-purchase emails or incentives to collect more reviews and improve trust.
+
+3. Review Discount Strategy in Low-Rated Categories
+   High discounts do not always lead to better ratings. Consider re-evaluating product quality or expectations in categories with both high discounts and low customer        satisfaction.
+
+4. Invest in Best-Selling Categories
+   Categories showing high total revenue and high average rating (e.g., Electronics, Health) should be prioritized for inventory, advertising, and promotions.
+
+5. Refine Inventory for Low-Performing Products 
+   Products with low ratings and high return potential (based on low reviews despite discounts) should be assessed for discontinuation, repositioning, or repackaging.
+
+6. Use Bundling and Upselling on Top Performers
+   Products with high rating scores and review volumes can serve as anchor items for bundles, upsells, or cross-selling strategies.
+
