@@ -15,6 +15,7 @@
 [Data Analysis](#data-analysis)
 
 [Data Visualization](#data-visualization)
+
 ---
 ### Project Overview: 
 This project is a comprehensive Amazon Product Analytics Dashboard built in Microsoft Excel, designed to transform raw e-commerce data into actionable insights. Using a dataset of 1,465 Amazon products—including categories, prices, discounts, ratings, and reviews—we developed a dynamic dashboard that helps users uncover trends in pricing, customer engagement, and product performance.
@@ -43,3 +44,4 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 ---
 ### Data Analysis
 This is where we include some basics lines of code or queries or even some of the DAX expressions used during your analysis
+
