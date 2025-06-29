@@ -14,7 +14,7 @@
 
 [Data Analysis](#data-analysis)
 
-[Data Visualization](#data-visualization)
+[Final Report](#final-report)
 
 ---
 ### Project Overview: 
@@ -60,3 +60,28 @@ This is where we include some basics lines of code or queries or even some of th
 ![Do not chart ](https://github.com/user-attachments/assets/ae86af6a-47e9-486e-bcf0-28a3c8180efa)
 
 ---
+### Final Report
+### Summary
+1. Ratings Are Generally High
+   Most products are rated 4.0 or above, showing a positive customer experience overall.
+
+2. Few Products Dominate Review Volume
+  A small group of products received the highest number of reviews, indicating popularity concentration.
+
+3. High Ratings ≠ High Visibility
+   Some products with strong ratings had very few reviews, suggesting they’re good but not well-promoted.
+
+4. Categories Differ in Discount Strategy
+   Categories like Clothing and Electronics showed the highest average discounts — possibly to stay competitive.
+
+5. Many Products Have <1,000 Reviews
+   A large number of products have not yet gained visibility, showing room for growth or promotion.
+
+6. Products Priced ₹200–₹500 Dominate
+   Most products fall in the mid-price range, indicating this is a sweet spot for buyers on Amazon.
+
+7. Top Products Have Both High Ratings & Review Counts
+   Products that rank at the top in both ratings and review count tend to also have high potential revenue, making them key drivers of marketplace success.
+
+8. High Discounts Often Correlate with Lower Ratings
+   Some highly discounted products had average or below-average ratings, possibly due to quality concerns or clearance strategies
