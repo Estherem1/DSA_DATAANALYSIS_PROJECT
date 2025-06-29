@@ -21,7 +21,7 @@
 This project is a comprehensive Amazon Product Analytics Dashboard built in Microsoft Excel, designed to transform raw e-commerce data into actionable insights. Using a dataset of 1,465 Amazon products—including categories, prices, discounts, ratings, and reviews—we developed a dynamic dashboard that helps users uncover trends in pricing, customer engagement, and product performance.
 ---
 ### Data Source: 
-The dataset used in this project was provided as part of the project information. It contains Amazon product information including categories, pricing, discounts, ratings, and review data.
+The dataset contains information scraped from Amazon product pages including categories, pricing, discounts, ratings, and review data.
 ---
 ### Tools Used
 - Microsoft Excel [Download Here](https://eu.docworkspace.com/d/sIFPBu4e1Adf9hsMG?sa=601.1037)
