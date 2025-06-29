@@ -45,3 +45,18 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 ### Data Analysis
 This is where we include some basics lines of code or queries or even some of the DAX expressions used during your analysis
 ---
+![Bar chart 2](https://github.com/user-attachments/assets/84dafa92-fada-41c2-9b6a-65ad05dabe50)
+
+---
+![Bar chart 1](https://github.com/user-attachments/assets/1d53374c-afaf-44b1-8cbe-1f5e543b26a7)
+
+---
+![scattered chart](https://github.com/user-attachments/assets/bdc5d5c2-c65a-41f3-a805-baf89e734207)
+
+---
+![Pie chart](https://github.com/user-attachments/assets/432926de-f7a1-44d8-960e-50ca6d261c05)
+
+---
+![Do not chart ](https://github.com/user-attachments/assets/ae86af6a-47e9-486e-bcf0-28a3c8180efa)
+
+---
