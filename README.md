@@ -106,3 +106,35 @@ This is where we include some basics lines of code or queries or even some of th
 6. Use Bundling and Upselling on Top Performers
    Products with high rating scores and review volumes can serve as anchor items for bundles, upsells, or cross-selling strategies.
 
+
+
+
+
+   ## PROJECT TITLE 2: KMS Sales & Customer Analysis with SQL
+
+---
+[Project Overview](#project-overview)
+
+[DATA SOURCES](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Final Report](#final-report)
+
+---
+### Project Overview: 
+This SQL project analyzes sales data to uncover key business insights, including:
+-  Identifying the highest-selling product categories
+-  Calculating total sales for specific sub-categories (e.g., Appliances under Office Supplies)
+-  Filtering sales data by region (Ontario, Canada)
+-  The goal is to demonstrate data extraction, aggregation, and business intelligence using SQL queries
+It presents a comprehensive SQL-based analysis of a fictional retail dataset from KMS, focused on uncovering business insights related to sales, customers, shipping, and regional performance. Using raw sales data, the project addresses real-world business questions such as identifying the most profitable customer segments, analyzing return patterns, evaluating regional sales disparities, and assessing shipping cost efficiency.
+
+The SQL queries included are designed to demonstrate practical applications of GROUP BY, JOIN, subqueries, and aggregation functions, forming a strong foundation for business intelligence and decision-making.
+
