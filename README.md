@@ -138,7 +138,7 @@ The SQL queries included are designed to demonstrate practical applications of G
 
 ---
 ### Tools Used 2:
-Microsoft SQL Server [Download Here](C:\Users\MacOS\Documents\SQL Server Management Studio\DSA_SQLQuery1_FINALPROJECT)
+Microsoft SQL Server [Download Here](https://1drv.ms/u/c/1f89a3757645c55d/EQ5UILt5GMlPgAiz7DSp7JsBSiXIkBdXLG_PR4j2kQe6EQ?e=Ri5mKj))
 
 Use Case:
 Ideal for learners, data analysts, or job seekers seeking to demonstrate SQL skills through practical business cases and data exploration techniques.
