@@ -88,6 +88,7 @@ This is where we include some basics lines of code or queries or even some of th
    
    ---
    ### Recommendations
+   
 1. Promote High-Rated, Low-Visibility Products
    Several products have excellent ratings but very few reviews. These are opportunities for targeted marketing or bundling to increase visibility and sales.
 
